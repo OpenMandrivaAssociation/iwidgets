@@ -4,7 +4,7 @@ Version:	4.1
 Release:	4
 License:	MIT
 Group:		System/Libraries
-Url:		http://chiselapp.com/user/rene/repository/iwidgets/index
+Url:		https://chiselapp.com/user/rene/repository/iwidgets/index
 Source0:	%{name}41.tgz
 BuildArch:	noarch
 BuildRequires:	pkgconfig(tcl)
